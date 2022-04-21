@@ -1,6 +1,6 @@
-# Canalesm3u
-Csnal
-dansal faanbug rm:
+#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://www.solostandup.com/img/logo-radio.png" group-title="Comedia",SoloStandUp https://paneltv.online:1936/8116/8116/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Cine",Cine ClÃ¡sico https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
